@@ -1,0 +1,2 @@
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Projekte\Git\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
